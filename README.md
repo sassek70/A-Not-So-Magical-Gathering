@@ -12,13 +12,13 @@ When you host or join a game, you will be given a deck containing thirty (30) ra
 
 ##EXAMPLE TURN
 
-    Player 1 (Host) attacks with a Power: 3, Toughness: 3 Card.
-    Player 2 defends with a Power: 1, Toughness: 2 Card.
-    The Power of the Attacking Card is greater than the Toughness of the Defending Card.
-    The Defending Card is destroyed and removed from the table and replaced with a new card from the Defending Player's deck.
-    Defending Card only blocked 2 damage and the Attacking Card has a Power of 3, 1 damage point remains and is applied to the Defending Player's health
-    The Defending Player's health is updated to 19
-    Since the Attacking Card's Toughness is greater than the Defending Cards Power, it remains on the table. It is now Player 2's turn
+1. Player 1 (Host) attacks with a Power: 3, Toughness: 3 Card.
+2. Player 2 defends with a Power: 1, Toughness: 2 Card.
+3. The Power of the Attacking Card is greater than the Toughness of the Defending Card.
+4. The Defending Card is destroyed and removed from the table and replaced with a new card from the Defending Player's deck.
+5. Defending Card only blocked 2 damage and the Attacking Card has a Power of 3, 1 damage point remains and is applied to the Defending Player's health
+6. The Defending Player's health is updated to 19
+7. Since the Attacking Card's Toughness is greater than the Defending Cards Power, it remains on the table. It is now Player 2's turn
 
 END OF GAME
 The two (2) main ways for the game to end is when either player has 0 or less health remaining or if neither player has any cards available. In the first case, the player that has more than 0 health is declared the winner. In the second case, the game is considered a draw.
