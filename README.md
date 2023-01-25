@@ -1,6 +1,6 @@
 # A-Not-So-Magical-Gathering
 
-This is my capstone project at Flatiron School and was developed using React.js and Ruby on Rails.
+A Not So Magical Gathering is my capstone project at Flatiron School and was developed using React.js and Ruby on Rails. This application is Player vs. Player card game that uses Ruby-on-Rails Action Cable and React.js websockets to connect two players in a game session.
 
 ##GETTING STARTED:
 
