@@ -33,6 +33,7 @@ A Not So Magical Gathering is a simplified battle-card game based on [Wizards of
 Card images and Artist information provided by the [Scryfall API](https://scryfall.com/docs/api/cards).
 
 [A Not So Magical Gathering live site](https://a-not-so-magical-gathering.onrender.com/)
+
 [Front-end Repo](https://github.com/sassek70/phase-5-frontend)
 
 [Back-end Repo](https://github.com/sassek70/phase-5-backend)
