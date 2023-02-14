@@ -32,6 +32,6 @@ A Not So Magical Gathering is unofficial Fan Content permitted under the Fan Con
 A Not So Magical Gathering is a simplified battle-card game based on [Wizards of the Coast's](https://company.wizards.com/en) trading-card game [Magic: The Gathering](https://magic.wizards.com/en) and was created as a cap-stone project for [Flatiron School's Software Engineering](https://flatironschool.com/courses/coding-bootcamp/) course.
 Card images and Artist information provided by the [Scryfall API](https://scryfall.com/docs/api/cards).
 
-[A Not So Magical Gathering live site](https://a-not-so-magical-gathering.onrender.com/)<br>
+[A Not So Magical Gathering live site](https://a-not-so-magical-gathering.onrender.com/) - NOTE: After a period of inactivity, the hosting service will take the back-end server offline to conserve resources. It may take up to a minute to be brought online. You should see a list of users in the "Leaderboard" section when ther server is active.<br>
 [Front-end Repo](https://github.com/sassek70/phase-5-frontend)<br>
 [Back-end Repo](https://github.com/sassek70/phase-5-backend)
